@@ -1,0 +1,2 @@
+# ai-preject
+projet académique 
